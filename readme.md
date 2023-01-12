@@ -1,7 +1,6 @@
 # Terrace Dashboard
 ## _A free Dashboarding tool for all your tools_
 _This project is currently pre-release and under active development, some features may be incomplete._    
-_The status of the full release can be viewed by checking the [Version 1.0 Checklist](https://github.com/sockheadrps/Terrace-Dashboard/issues/23)_
 ![Alt Text](readmegif.gif)
 A tool comprised of a useful "Home Page" style dashboard running in a web browser, deployable remote Python clients that monitor hardware statistics and state of the host machine(s), as well as an available communication protocol for displaying the status of additional "services", that can be implemented into any project that utilizes Web Socket communication.
 
@@ -45,18 +44,6 @@ TDB has been tested on [Python 3.7+](https://www.python.org/), and requires the 
 ### Optional:
 - Run the hardware client(s) on host machine and/or remote machines while the server is running
 - Implement and connect any "Services." An example service in the clients folder is provided to assist you in structuring you projects to communicate with the server.
-
-
-
-
-
-
-## Development
-
-Want to contribute? Great!
-##### Developers
-- https://github.com/sockheadrps
-- https://github.com/beaux44
 
 
 ## License
